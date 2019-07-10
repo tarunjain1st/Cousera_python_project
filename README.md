@@ -1,1 +1,1 @@
-# Cousera_pyhton_project
+# Cousera_python_project
